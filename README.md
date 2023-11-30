@@ -1,7 +1,7 @@
 
 # Diabetes Prediction
 
-Diabetes is a debilitating disease. Diagnosing it early can prevent onset of complications such as loss of eyesight and nerve damage. This repository supplies the code of developing an ML model that predicts whether an adult woman of Pima Indian heritage residing in the US will get diabetes. The prediction is made based on information about certain biochemical markers and aspects of family history.
+Diabetes is a debilitating disease. Diagnosing it early can prevent onset of complications such as loss of eyesight and nerve damage. This repository supplies the code of developing an ML model that predicts whether an adult woman, of Pima Indian heritage residing in the US, will get diabetes. The prediction is made based on information about certain biochemical markers and aspects of family history.
 
 ## Implementation 
 
