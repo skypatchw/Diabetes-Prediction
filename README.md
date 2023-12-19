@@ -35,7 +35,7 @@ To reproduce the results, download the relevant script and load the correspondin
 
 The dataset comprises of 768 patient records collected from a sub-population residing near Phoenix, Arizona in the United States. The original dataset was first created by Smith et al. (1988) to predict diabetes in the high risk community.
 
-It consists of 268 of patients who have been diagnosed with diabetes along with 500 patient who are free of diabetes. This information is contained in the class label named 'Outcome'. Only participants whose age was at least 21 years were included. 
+It consists of 268 patients who have been diagnosed with diabetes along with 500 patients who are free of diabetes. This information is contained in the class label named 'Outcome'. Only participants whose age was at least 21 years were included. 
 
 ## Citation 
 
