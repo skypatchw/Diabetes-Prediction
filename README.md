@@ -29,7 +29,7 @@ All necessary data can be found in the "Files" folder of the repository or on Ka
 
 ## Quick Start 
 
-To reproduce the results, download the relevant script and load the corresponding data into a jupyter notebook. Running the script will generate all relevant figures and data tables.
+To reproduce the results, download the relevant script and load the corresponding data into a jupyter notebook; running the script will generate all relevant figures and tables. An  executable script file (.py) is also provided if that's more your style. 
 
 ## Additional Information
 
