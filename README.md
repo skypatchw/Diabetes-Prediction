@@ -8,10 +8,10 @@ Diabetes is a debilitating disease. Diagnosing it early can prevent onset of com
 **ML Model Type**: Supervised 
 
 **Algorithms**: 
-- Logistic Regression      (81.3% AUC)
-- Support Vector Machine   (75.9% AUC)
-- Random Forest            (80.9% AUC)
-- Multi-layer Perceptron   (60.9% AUC)
+- Logistic Regression------(81.3% AUC)
+- Random Forest------------(80.9% AUC)
+- Support Vector Machine---(75.9% AUC)
+- Multi-layer Perceptron---(60.9% AUC)
 
 **Hyperparameter Tuning Tool**: Optuna 
 
